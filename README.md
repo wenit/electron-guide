@@ -42,9 +42,13 @@ cnpm npm install cnpm -g --registry=https://registry.npm.taobao.org
 ```
 
 ``` shell
-cnpm -v cnpm@6.1.1 (C:\Users\WDAGUtilityAccount\AppData\Roaming\npm\node_modules\cnpm\lib\parse_argv.js) npm@6.14.5 (C:\Users\WDAGUtilityAccount\AppData\Roaming\npm\node_modules\cnpm\node_modules\npm\lib\npm.js) node@12.18.0 (C:\Program Files\nodejs\node.exe) npminstall@3.27.0 (C:\Users\WDAGUtilityAccount\AppData\Roaming\npm\node_modules\cnpm\node_modules\npminstall\lib\index.js) prefix=C:\Users\WDAGUtilityAccount\AppData\Roaming\npm win32 x64 10.0.19041 registry=https://r.npm.taobao.org 
+cnpm -v 
 
-
+cnpm@6.1.1 (C:\Users\WDAGUtilityAccount\AppData\Roaming\npm\node_modules\cnpm\lib\parse_argv.js) 
+npm@6.14.5 (C:\Users\WDAGUtilityAccount\AppData\Roaming\npm\node_modules\cnpm\node_modules\npm\lib\npm.js) 
+node@12.18.0 (C:\Program Files\nodejs\node.exe) 
+npminstall@3.27.0 (C:\Users\WDAGUtilityAccount\AppData\Roaming\npm\node_modules\cnpm\node_modules\npminstall\lib\index.js) 
+prefix=C:\Users\WDAGUtilityAccount\AppData\Roaming\npm win32 x64 10.0.19041 registry=https://r.npm.taobao.org 
 ```
 
 ### 3-卸载旧版vue-cli 
